@@ -32,7 +32,7 @@ This is the backend service for the FlappyScroll game, a blockchain-integrated g
 1. Clone the repository:
 
    
-    git clone https://github.com/yourusername/flappyscroll-backend.git
+    git clone https://github.com/denkarkosh/flappy_back
     cd flappyscroll-backend
     
 2. Create a virtual environment:
